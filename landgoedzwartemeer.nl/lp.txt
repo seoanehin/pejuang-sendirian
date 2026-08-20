@@ -6,9 +6,9 @@
 <title>BOTAKHOKI | Jalur Cepat Pengguna Togel Online untuk Pasang Angka Tebakan</title>
 <link rel="icon" type="image/x-icon" href="https://imagesshop.io/images/2026/08/21/faicon-BOTAKHOKI-pasang-angka-togel.png" />
 <link rel="apple-touch-icon" href="https://imagesshop.io/images/2026/08/21/faicon-BOTAKHOKI-pasang-angka-togel.png">
-<link rel="canonical" href="https://landgoedzwartemeer.nl/">
+<link rel="canonical" href="https://landgoedzwartemeer.nl/over-ons/">
 <link rel="amphtml" href="https://landgoedzwartemeer.botakhoki.store/" /> 
-<link rel="alternate" href="https://landgoedzwartemeer.nl/" media="only screen and (max-width: 640px)">
+<link rel="alternate" href="https://landgoedzwartemeer.nl/over-ons/" media="only screen and (max-width: 640px)">
 <link rel="alternate" href="https://landgoedzwartemeer.botakhoki.store/"> 
 <link rel="alternate" href="https://landgoedzwartemeer.botakhoki.store/" hreflang="id">
 <link rel="alternate" href="https://landgoedzwartemeer.botakhoki.store/" hreflang="en">
@@ -51,8 +51,8 @@
       trackLongTasks: true,
       defaultPrivacyLevel: 'mask-user-input',
       allowedTracingUrls: [
-        'https://landgoedzwartemeer.nl/',
-        'https://landgoedzwartemeer.nl/'
+        'https://landgoedzwartemeer.nl/over-ons/',
+        'https://landgoedzwartemeer.nl/over-ons/'
       ]
     });
   })
@@ -68,7 +68,7 @@
 <meta property="og:price:amount" content="99.00">
 <meta property="og:price:currency" content="USD">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://landgoedzwartemeer.nl/">
+<meta property="og:url" content="https://landgoedzwartemeer.nl/over-ons/">
 <meta property="og:image" content="https://imagesshop.io/images/2026/08/21/picture-BOTAKHOKI-pasang-angka-togel.jpeg">
 <meta property="og:site_name" content="TeePublic">
 <meta property="product:price:amount" content="23.00">
@@ -82,7 +82,7 @@
   window.dataLayer = window.dataLayer || [];
 </script>
 <script>
-  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://landgoedzwartemeer.nl/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74235272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"77125264D1V","design__variant_id":"91G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74235272_0.jpg","design__url":"https://landgoedzwartemeer.nl/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"BOTAKHOKI menghadirkan jalur cepat bagi pengguna togel online untuk memasang angka tebakan dengan akses praktis, proses responsif, dan tampilan yang mudah digunakan. Nikmati pengalaman digital yang sederhana dengan sistem yang dirancang untuk memberikan kemudahan akses kapan saja.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"BOTAKHOKI","design__owner_type":"designer","design__owner_id":6705586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey BOTAKHOKI","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"84165122D1V17G79A7C"})
+  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://landgoedzwartemeer.nl/over-ons/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74235272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"77125264D1V","design__variant_id":"91G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74235272_0.jpg","design__url":"https://landgoedzwartemeer.nl/over-ons/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"BOTAKHOKI menghadirkan jalur cepat bagi pengguna togel online untuk memasang angka tebakan dengan akses praktis, proses responsif, dan tampilan yang mudah digunakan. Nikmati pengalaman digital yang sederhana dengan sistem yang dirancang untuk memberikan kemudahan akses kapan saja.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"BOTAKHOKI","design__owner_type":"designer","design__owner_id":6705586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey BOTAKHOKI","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"84165122D1V17G79A7C"})
 </script>
 <script>
   window.dataLayer.push({
@@ -216,7 +216,7 @@ BOTAKHOKI
 </div>
 
 </button></div>
-<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://landgoedzwartemeer.nl/" class="link vc-header-logo__wrapper link--1 link--default">
+<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://landgoedzwartemeer.nl/over-ons/" class="link vc-header-logo__wrapper link--1 link--default">
 <span class='link__content'>
 <picture>
   <source srcset="https://imagesshop.io/images/2026/08/21/logo-BOTAKHOKI-pasang-angka-togel.gif" type="image/webp">
@@ -235,7 +235,7 @@ BOTAKHOKI
 </div>
 <div class='vc-header__search-container'>
 <div class='m-header__search m-header__search--animate jsHeadSearch inactive' data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
-<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://landgoedzwartemeer.nl/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
+<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://landgoedzwartemeer.nl/over-ons/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
 <div class='m-header__search-field-container'>
 <div class='m-header__search-field-placeholder-wrapper' data-navigation--header-target='placeholderWrapper'>
 <div class='m-header__search-field-placeholder'>
@@ -355,42 +355,42 @@ Shop All Designs
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://landgoedzwartemeer.nl/" title="Halloween T-Shirts" href="https://landgoedzwartemeer.nl/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://landgoedzwartemeer.nl/over-ons/" title="Halloween T-Shirts" href="https://landgoedzwartemeer.nl/over-ons/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 BOTAKHOKI
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://landgoedzwartemeer.nl/" title="Music T-Shirts" href="https://landgoedzwartemeer.nl/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://landgoedzwartemeer.nl/over-ons/" title="Music T-Shirts" href="https://landgoedzwartemeer.nl/over-ons/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 BOTAK HOKI
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://landgoedzwartemeer.nl/" title="Sport T-Shirts" href="https://landgoedzwartemeer.nl/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://landgoedzwartemeer.nl/over-ons/" title="Sport T-Shirts" href="https://landgoedzwartemeer.nl/over-ons/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 BOTAKHOKI LOGIN
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://landgoedzwartemeer.nl/" title="Movie T-Shirts" href="https://landgoedzwartemeer.nl/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://landgoedzwartemeer.nl/over-ons/" title="Movie T-Shirts" href="https://landgoedzwartemeer.nl/over-ons/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 BOTAKHOKI DAFTAR
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://landgoedzwartemeer.nl/" title="Vintage T-Shirts" href="https://landgoedzwartemeer.nl/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://landgoedzwartemeer.nl/over-ons/" title="Vintage T-Shirts" href="https://landgoedzwartemeer.nl/over-ons/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 TOGEL RESMI
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://landgoedzwartemeer.nl/" title="Animal T-Shirts" href="https://landgoedzwartemeer.nl/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://landgoedzwartemeer.nl/over-ons/" title="Animal T-Shirts" href="https://landgoedzwartemeer.nl/over-ons/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 TOGEL ONLINE
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://landgoedzwartemeer.nl/" title="Television T-Shirts" href="https://landgoedzwartemeer.nl/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://landgoedzwartemeer.nl/over-ons/" title="Television T-Shirts" href="https://landgoedzwartemeer.nl/over-ons/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 TOGEL AKURAT
 
@@ -432,10 +432,10 @@ Selamat Datang Di BOTAKHOKI Bossku !!!
             },
             "sku": "BOTAKHOKI",
             "mpn": "00771-GCR",
-            "url": "https://landgoedzwartemeer.nl/",
+            "url": "https://landgoedzwartemeer.nl/over-ons/",
             "offers": {
                 "@type": "Offer",
-                "url": "https://landgoedzwartemeer.nl/",
+                "url": "https://landgoedzwartemeer.nl/over-ons/",
                 "priceCurrency": "idr",
                 "price": "0.00",
                 "priceValidUntil": "2025-12-31",
@@ -486,43 +486,43 @@ Selamat Datang Di BOTAKHOKI Bossku !!!
       "@type": "ListItem",
       "position": 1,
       "name": "BOTAKHOKI",
-      "item": "https://landgoedzwartemeer.nl/"
+      "item": "https://landgoedzwartemeer.nl/over-ons/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "BOTAK HOKI",
-      "item": "https://landgoedzwartemeer.nl/"
+      "item": "https://landgoedzwartemeer.nl/over-ons/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "BOTAKHOKI LOGIN",
-      "item": "https://landgoedzwartemeer.nl/"
+      "item": "https://landgoedzwartemeer.nl/over-ons/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "BOTAKHOKI DAFTAR",
-      "item": "https://landgoedzwartemeer.nl/"
+      "item": "https://landgoedzwartemeer.nl/over-ons/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "TOGEL RESMI",
-      "item": "https://landgoedzwartemeer.nl/"
+      "item": "https://landgoedzwartemeer.nl/over-ons/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "TOGEL ONLINE",
-      "item": "https://landgoedzwartemeer.nl/"
+      "item": "https://landgoedzwartemeer.nl/over-ons/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "TOGEL AKURAT",
-      "item": "https://landgoedzwartemeer.nl/"
+      "item": "https://landgoedzwartemeer.nl/over-ons/"
     }
   ]
 }
@@ -583,7 +583,7 @@ Selamat Datang Di BOTAKHOKI Bossku !!!
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "BOTAKHOKI",
-            "url": "https://landgoedzwartemeer.nl/",
+            "url": "https://landgoedzwartemeer.nl/over-ons/",
             "logo": "https://imagesshop.io/images/2026/08/21/logo-BOTAKHOKI-pasang-angka-togel.gif",
             "sameAs": [
                 "https://www.facebook.com/botakhoki",
@@ -606,27 +606,27 @@ Selamat Datang Di BOTAKHOKI Bossku !!!
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://landgoedzwartemeer.nl/#org",
+      "@id": "https://landgoedzwartemeer.nl/over-ons/#org",
       "name": "BOTAKHOKI",
-      "url": "https://landgoedzwartemeer.nl/",
+      "url": "https://landgoedzwartemeer.nl/over-ons/",
       "logo": "https://imagesshop.io/images/2026/08/21/logo-BOTAKHOKI-pasang-angka-togel.gif"
     },
     {
       "@type": "WebSite",
-      "@id": "https://landgoedzwartemeer.nl/#website",
-      "url": "https://landgoedzwartemeer.nl/",
+      "@id": "https://landgoedzwartemeer.nl/over-ons/#website",
+      "url": "https://landgoedzwartemeer.nl/over-ons/",
       "name": "BOTAKHOKI",
-      "publisher": { "@id": "https://landgoedzwartemeer.nl/#org" },
+      "publisher": { "@id": "https://landgoedzwartemeer.nl/over-ons/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://landgoedzwartemeer.nl/?s={search_term_string}",
+        "target": "https://landgoedzwartemeer.nl/over-ons/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://landgoedzwartemeer.nl/#app",
+      "@id": "https://landgoedzwartemeer.nl/over-ons/#app",
       "name": "BOTAKHOKI",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -1371,7 +1371,7 @@ Read more
                                 
                                 <!-- === Artikel BOTAKHOKI RAPI tanpa H1/H2 === -->
                                 <div class="article-container">
-                                 <p><span style="color: #f51100;"><strong><a style="color: #f51100;" href="https://landgoedzwartemeer.nl/">BOTAKHOKI</a></strong></span> hadir sebagai platform digital yang menawarkan jalur akses praktis bagi pengguna togel online untuk memasang angka tebakan. Dengan tampilan yang sederhana, navigasi responsif, serta sistem yang mudah dipahami, BOTAKHOKI membantu pengguna menemukan menu dan layanan yang dibutuhkan tanpa proses yang berbelit-belit. Dukungan akses melalui berbagai perangkat juga membuat platform dapat digunakan dengan lebih fleksibel sesuai kebutuhan pengguna.
+                                 <p><span style="color: #f51100;"><strong><a style="color: #f51100;" href="https://landgoedzwartemeer.nl/over-ons/">BOTAKHOKI</a></strong></span> hadir sebagai platform digital yang menawarkan jalur akses praktis bagi pengguna togel online untuk memasang angka tebakan. Dengan tampilan yang sederhana, navigasi responsif, serta sistem yang mudah dipahami, BOTAKHOKI membantu pengguna menemukan menu dan layanan yang dibutuhkan tanpa proses yang berbelit-belit. Dukungan akses melalui berbagai perangkat juga membuat platform dapat digunakan dengan lebih fleksibel sesuai kebutuhan pengguna.
 </p>
 <p>Selain mengutamakan kemudahan akses, BOTAKHOKI menyediakan pengalaman penggunaan yang tertata dengan proses pemasangan angka yang sederhana dan informasi permainan yang mudah ditemukan. Pengguna tetap disarankan memahami aturan permainan, menetapkan batas pengeluaran, dan bermain secara bertanggung jawab karena hasil permainan berbasis peluang tidak dapat dipastikan atau dijamin.</p>
                                 </div>
@@ -1891,7 +1891,7 @@ Away from
 <h4>Your Cart is empty...</h4>
 <p>Discover something you'll love!</p>
 <div class='m-tray-cart__body-links'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://landgoedzwartemeer.nl/" href="https://landgoedzwartemeer.nl/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://landgoedzwartemeer.nl/over-ons/" href="https://landgoedzwartemeer.nl/over-ons/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 animals
 
@@ -1921,13 +1921,13 @@ food
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://landgoedzwartemeer.nl/" href="https://landgoedzwartemeer.nl/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://landgoedzwartemeer.nl/over-ons/" href="https://landgoedzwartemeer.nl/over-ons/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 funny
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://landgoedzwartemeer.nl/" href="https://landgoedzwartemeer.nl/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://landgoedzwartemeer.nl/over-ons/" href="https://landgoedzwartemeer.nl/over-ons/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 movies
 
@@ -1939,19 +1939,19 @@ sci-fi
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://landgoedzwartemeer.nl/" href="https://landgoedzwartemeer.nl/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://landgoedzwartemeer.nl/over-ons/" href="https://landgoedzwartemeer.nl/over-ons/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 sports
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://landgoedzwartemeer.nl/" href="https://landgoedzwartemeer.nl/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://landgoedzwartemeer.nl/over-ons/" href="https://landgoedzwartemeer.nl/over-ons/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 television
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://landgoedzwartemeer.nl/" href="https://landgoedzwartemeer.nl/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://landgoedzwartemeer.nl/over-ons/" href="https://landgoedzwartemeer.nl/over-ons/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 vintage
 
@@ -2239,7 +2239,7 @@ Back To Menu
 <div class='drawer__content-container jsDrawerContentContainer'>
 <div class='m-tray-shop__body'>
 <div class='m-tray-shop__logo-container'>
-<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://landgoedzwartemeer.nl/" class="link vc-header-logo__wrapper link--1 link--default">
+<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://landgoedzwartemeer.nl/over-ons/" class="link vc-header-logo__wrapper link--1 link--default">
 <span class='link__content'>
 <picture>
   <source srcset="https://imagesshop.io/images/2026/08/21/logo-BOTAKHOKI-pasang-angka-togel.gif" type="image/webp">
@@ -2351,13 +2351,13 @@ Back To Menu
 </div>
 <div class="m-tray-shop__popular-topics"><h3>Browse All Topics</h3>
 <div class='m-tray-shop__popular-topics-content'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://landgoedzwartemeer.nl/" title="Funny" href="https://landgoedzwartemeer.nl/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://landgoedzwartemeer.nl/over-ons/" title="Funny" href="https://landgoedzwartemeer.nl/over-ons/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 funny
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://landgoedzwartemeer.nl/" title="Music" href="https://landgoedzwartemeer.nl/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://landgoedzwartemeer.nl/over-ons/" title="Music" href="https://landgoedzwartemeer.nl/over-ons/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 music
 </span>
@@ -2369,19 +2369,19 @@ anime
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://landgoedzwartemeer.nl/" title="Movies" href="https://landgoedzwartemeer.nl/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://landgoedzwartemeer.nl/over-ons/" title="Movies" href="https://landgoedzwartemeer.nl/over-ons/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 movies
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://landgoedzwartemeer.nl/" title="Television" href="https://landgoedzwartemeer.nl/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://landgoedzwartemeer.nl/over-ons/" title="Television" href="https://landgoedzwartemeer.nl/over-ons/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 television
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://landgoedzwartemeer.nl/" title="Sports" href="https://landgoedzwartemeer.nl/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://landgoedzwartemeer.nl/over-ons/" title="Sports" href="https://landgoedzwartemeer.nl/over-ons/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 sports
 </span>
@@ -2393,13 +2393,13 @@ sci-fi
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://landgoedzwartemeer.nl/" title="Vintage" href="https://landgoedzwartemeer.nl/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://landgoedzwartemeer.nl/over-ons/" title="Vintage" href="https://landgoedzwartemeer.nl/over-ons/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 vintage
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://landgoedzwartemeer.nl/" title="Animals" href="https://landgoedzwartemeer.nl/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://landgoedzwartemeer.nl/over-ons/" title="Animals" href="https://landgoedzwartemeer.nl/over-ons/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 animals
 </span>
