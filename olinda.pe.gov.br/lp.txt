@@ -7357,7 +7357,7 @@
              <div class="page__overlay" data-view="offCanvasNavToggle" data-off-canvas="close" bis_skin_checked="1">
              </div>
  <div class="faq-section">
-         <h2>FAQ</h2>
+         <h2>FAQ SITUS MAHONGTOTO</h2>
           <div class="faq-container">
     <div class="faq-item">
         <button class="faq-question">1. Apa itu MAHONGTOTO?<span></span></button>
