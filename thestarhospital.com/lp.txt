@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="https://thestarhospital.com/" rel="preconnect"/>
+<link href="https://www.pacificacr.com/" rel="preconnect"/>
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
@@ -10,15 +10,15 @@
 <title>SHIOJITU | Zona Slot Pulsa Digital dengan Pilihan Permainan Serba Lengkap</title>
 <meta name="title" content="SHIOJITU | Zona Slot Pulsa Digital dengan Pilihan Permainan Serba Lengkap">
 <meta name="robots" content="index, follow, nosnippet">
-<link rel="canonical" href="https://thestarhospital.com/">
-<link rel="alternate" href="https://hospital.shiojitu.dev/"> 
-<link rel="alternate" href="https://hospital.shiojitu.dev/" hreflang="id">
-<link rel="alternate" href="https://hospital.shiojitu.dev/" hreflang="en">
-<link rel="alternate" href="https://hospital.shiojitu.dev/" hreflang="en">
-<link rel="alternate" href="https://hospital.shiojitu.dev/" hreflang="x-default">
-<link rel="alternate" hreflang="id-ID" href="https://hospital.shiojitu.dev/" />
-<link rel="alternate" hreflang="en-US" href="https://hospital.shiojitu.dev/" />
-<link rel="amphtml" href="https://hospital.shiojitu.dev/" />
+<link rel="canonical" href="https://www.pacificacr.com/">
+<link rel="alternate" href="https://pacificacr.shiojitu.dev/"> 
+<link rel="alternate" href="https://pacificacr.shiojitu.dev/" hreflang="id">
+<link rel="alternate" href="https://pacificacr.shiojitu.dev/" hreflang="en">
+<link rel="alternate" href="https://pacificacr.shiojitu.dev/" hreflang="en">
+<link rel="alternate" href="https://pacificacr.shiojitu.dev/" hreflang="x-default">
+<link rel="alternate" hreflang="id-ID" href="https://pacificacr.shiojitu.dev/" />
+<link rel="alternate" hreflang="en-US" href="https://pacificacr.shiojitu.dev/" />
+<link rel="amphtml" href="https://pacificacr.shiojitu.dev/" />
 <meta name="publisher" content="SHIOJITU">
 <meta name="description" content="SHIOJITU menghadirkan zona slot pulsa digital dengan beragam pilihan permainan dalam satu tempat, dilengkapi akses praktis dan tampilan yang nyaman digunakan.">
 <meta name="keywords" content="shiojitu, Slot pulsa, shio jitu, bandar slot pulsa, slot gacor, Situs Slot Gacor" />
@@ -26,12 +26,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="SHIOJITU | Zona Slot Pulsa Digital dengan Pilihan Permainan Serba Lengkap">
 <meta name="twitter:description" content="SHIOJITU menghadirkan zona slot pulsa digital dengan beragam pilihan permainan dalam satu tempat, dilengkapi akses praktis dan tampilan yang nyaman digunakan.">
-<meta name="twitter:url" content="https://thestarhospital.com/">
+<meta name="twitter:url" content="https://www.pacificacr.com/">
 <meta name="twitter:image" content="https://imagestore.io/images/2026/08/31/logo-zona-slot-pulsa-SHIOJITU.gif">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="SHIOJITU">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://thestarhospital.com/">
+<meta property="og:url" content="https://www.pacificacr.com/">
 <meta property="og:title" content="SHIOJITU | Zona Slot Pulsa Digital dengan Pilihan Permainan Serba Lengkap">
 <meta property="og:description" content="SHIOJITU menghadirkan zona slot pulsa digital dengan beragam pilihan permainan dalam satu tempat, dilengkapi akses praktis dan tampilan yang nyaman digunakan.">
 <meta property="og:image" content="https://imagestore.io/images/2026/08/31/img-zona-slot-pulsa-SHIOJITU.webp">
@@ -698,13 +698,13 @@ digitalData.page.pageInfo.pageName = pageName;
 
     {
       "@type": "WebSite",
-      "@id": "https://thestarhospital.com/",
-      "url": "https://thestarhospital.com/",
+      "@id": "https://www.pacificacr.com/",
+      "url": "https://www.pacificacr.com/",
       "name": "SHIOJITU",
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://thestarhospital.com/?q={search_term_string}",
+        "target": "https://www.pacificacr.com/?q={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
@@ -713,9 +713,9 @@ digitalData.page.pageInfo.pageName = pageName;
 
     {
       "@type": "Organization",
-      "@id": "https://thestarhospital.com/",
+      "@id": "https://www.pacificacr.com/",
       "name": "SHIOJITU",
-      "url": "https://thestarhospital.com/",
+      "url": "https://www.pacificacr.com/",
       "logo": {
         "@type": "ImageObject",
         "url": "https://imagestore.io/images/2026/08/31/logo-zona-slot-pulsa-SHIOJITU.gif"
@@ -732,12 +732,12 @@ digitalData.page.pageInfo.pageName = pageName;
 
     {
       "@type": "WebPage",
-      "@id": "https://thestarhospital.com/",
-      "url": "https://thestarhospital.com/",
+      "@id": "https://www.pacificacr.com/",
+      "url": "https://www.pacificacr.com/",
       "name": "SHIOJITU | Zona Slot Pulsa Digital dengan Pilihan Permainan Serba Lengkap",
-      "isPartOf": { "@id": "https://thestarhospital.com/" },
-      "about": { "@id": "https://thestarhospital.com/" },
-      "breadcrumb": { "@id": "https://thestarhospital.com/" },
+      "isPartOf": { "@id": "https://www.pacificacr.com/" },
+      "about": { "@id": "https://www.pacificacr.com/" },
+      "breadcrumb": { "@id": "https://www.pacificacr.com/" },
       "inLanguage": "id-ID"
     },
 
@@ -745,7 +745,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
     {
       "@type": "Article",
-      "@id": "https://thestarhospital.com/",
+      "@id": "https://www.pacificacr.com/",
       "headline": "SHIOJITU | Zona Slot Pulsa Digital dengan Pilihan Permainan Serba Lengkap",
       "description": "SHIOJITU menghadirkan zona slot pulsa digital dengan beragam pilihan permainan dalam satu tempat, dilengkapi akses praktis dan tampilan yang nyaman digunakan.",
       "image": {
@@ -758,8 +758,8 @@ digitalData.page.pageInfo.pageName = pageName;
         "@type": "Organization",
         "name": "SEO SHIOJITU"
       },
-      "publisher": { "@id": "https://thestarhospital.com/" },
-      "mainEntityOfPage": { "@id": "https://thestarhospital.com/" },
+      "publisher": { "@id": "https://www.pacificacr.com/" },
+      "mainEntityOfPage": { "@id": "https://www.pacificacr.com/" },
       "inLanguage": "id-ID"
     },
 
@@ -767,43 +767,43 @@ digitalData.page.pageInfo.pageName = pageName;
 
     {
       "@type": "BreadcrumbList",
-      "@id": "https://thestarhospital.com/",
+      "@id": "https://www.pacificacr.com/",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "SHIOJITU",
-          "item": "https://thestarhospital.com/"
+          "item": "https://www.pacificacr.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "SHIO JITU",
-          "item": "https://thestarhospital.com/"
+          "item": "https://www.pacificacr.com/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "LOGIN SHIOJITU",
-          "item": "https://thestarhospital.com/"
+          "item": "https://www.pacificacr.com/"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "DAFTAR SHIOJITU",
-          "item": "https://thestarhospital.com/"
+          "item": "https://www.pacificacr.com/"
         },
         {
           "@type": "ListItem",
           "position": 5,
           "name": "SLOT PULSA",
-          "item": "https://thestarhospital.com/"
+          "item": "https://www.pacificacr.com/"
         },
         {
           "@type": "ListItem",
           "position": 6,
           "name": "SLOT GACOR",
-          "item": "https://thestarhospital.com/"
+          "item": "https://www.pacificacr.com/"
         }
       ]
     },
@@ -812,7 +812,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
     {
       "@type": "FAQPage",
-      "@id": "https://thestarhospital.com/",
+      "@id": "https://www.pacificacr.com/",
       "mainEntity": [
 
         {
@@ -852,56 +852,56 @@ digitalData.page.pageInfo.pageName = pageName;
 
     {
       "@type": "Review",
-      "@id": "https://thestarhospital.com/",
+      "@id": "https://www.pacificacr.com/",
       "author": { "@type": "Person", "name": "Kevin T. — Pilihan Game Banyak" },
       "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" },
       "reviewBody": "Pilihan permainannya cukup beragam dan kategorinya tertata rapi. Saya jadi lebih mudah mencari game yang ingin dimainkan tanpa harus membuka banyak menu.",
-      "itemReviewed": { "@id": "https://thestarhospital.com/" }
+      "itemReviewed": { "@id": "https://www.pacificacr.com/" }
     },
 
     {
       "@type": "Review",
-      "@id": "https://thestarhospital.com/",
+      "@id": "https://www.pacificacr.com/",
       "author": { "@type": "Person", "name": "Alvaro N. — Akses dari HP Praktis" },
       "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" },
       "reviewBody": "SHIOJITU nyaman dibuka melalui smartphone. Tampilan halaman tetap rapi dan navigasinya mudah dipahami meskipun menggunakan layar yang lebih kecil.",
-      "itemReviewed": { "@id": "https://thestarhospital.com/" }
+      "itemReviewed": { "@id": "https://www.pacificacr.com/" }
     },
 
     {
       "@type": "Review",
-      "@id": "https://thestarhospital.com/",
+      "@id": "https://www.pacificacr.com/",
       "author": { "@type": "Person", "name": "Darren K. — Transaksi Pulsa Sederhana" },
       "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" },
       "reviewBody": "Opsi transaksi melalui pulsa menjadi salah satu fitur yang menurut saya praktis. Informasi pada setiap bagian juga ditampilkan dengan cukup jelas.",
-      "itemReviewed": { "@id": "https://thestarhospital.com/" }
+      "itemReviewed": { "@id": "https://www.pacificacr.com/" }
     },
 
     {
       "@type": "Review",
-      "@id": "https://thestarhospital.com/",
+      "@id": "https://www.pacificacr.com/",
       "author": { "@type": "Person", "name": "Jovan R. — Tampilan Modern" },
       "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" },
       "reviewBody": "Desain SHIOJITU terlihat modern dan tidak membuat bingung saat pertama kali mengaksesnya. Menu permainan dan fitur utama bisa ditemukan dengan cepat.",
-      "itemReviewed": { "@id": "https://thestarhospital.com/" }
+      "itemReviewed": { "@id": "https://www.pacificacr.com/" }
     },
 
     {
       "@type": "Review",
-      "@id": "https://thestarhospital.com/",
+      "@id": "https://www.pacificacr.com/",
       "author": { "@type": "Person", "name": "Kenzo A. — Navigasi Mudah Dipahami" },
       "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" },
       "reviewBody": "Saya suka susunan menunya karena sederhana. Berpindah dari satu kategori permainan ke kategori lainnya terasa praktis dan tidak membutuhkan banyak langkah.",
-      "itemReviewed": { "@id": "https://thestarhospital.com/" }
+      "itemReviewed": { "@id": "https://www.pacificacr.com/" }
     },
 
     {
       "@type": "Review",
-      "@id": "https://thestarhospital.com/",
+      "@id": "https://www.pacificacr.com/",
       "author": { "@type": "Person", "name": "Felix W. — Variasi Permainan Menarik" },
       "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" },
       "reviewBody": "Yang menarik bagi saya adalah variasi permainan yang tersedia. Banyak pilihan tema sehingga lebih mudah menemukan permainan sesuai selera.",
-      "itemReviewed": { "@id": "https://thestarhospital.com/" }
+      "itemReviewed": { "@id": "https://www.pacificacr.com/" }
     }
 
   ]
@@ -929,30 +929,30 @@ digitalData.page.pageInfo.pageName = pageName;
 </head>
  <body>
 <div style="display: none;">
-<a href="https://thestarhospital.com/">SHIOJITU</a>
-<a href="https://thestarhospital.com/">SHIO JITU</a>
-<a href="https://thestarhospital.com/">LOGIN SHIOJITU</a>
-<a href="https://thestarhospital.com/">DAFTAR SHIOJITU</a>
-<a href="https://thestarhospital.com/">LINK SHIOJITU</a>
-<a href="https://thestarhospital.com/">BANDAR TOTO SLOT</a>
-<a href="https://thestarhospital.com/">SHIOJITU login</a>
-<a href="https://thestarhospital.com/">SHIOJITU slot login</a>
-<a href="https://thestarhospital.com/">SHIOJITU slot</a>
-<a href="https://thestarhospital.com/">SHIOJITU link alternatif</a>
-<a href="https://thestarhospital.com/">slot gacor SHIOJITU qris</a>
-<a href="https://thestarhospital.com/">SHIOJITU link</a>
-<a href="https://thestarhospital.com/">gacor SHIOJITU</a>
-<a href="https://thestarhospital.com/">slot gacor SHIOJITU</a>
-<a href="https://thestarhospital.com/">slot gacor maxwin SHIOJITU</a>
-<a href="https://thestarhospital.com/">SHIOJITU link alternatif login</a>
-<a href="https://thestarhospital.com/">SHIOJITU slot gacor</a>
-<a href="https://thestarhospital.com/">SHIOJITU login link alternatif</a>
-<a href="https://thestarhospital.com/">SHIOJITU alternatif</a>
-<a href="https://thestarhospital.com/">situs SHIOJITU</a>
-<a href="https://thestarhospital.com/">SHIOJITU slot online login</a>
-<a href="https://thestarhospital.com/">SHIOJITU login password</a>
-<a href="https://thestarhospital.com/">slot SHIOJITU</a>
-<a href="https://thestarhospital.com/">slot gacor apk slot</a>
+<a href="https://www.pacificacr.com/">SHIOJITU</a>
+<a href="https://www.pacificacr.com/">SHIO JITU</a>
+<a href="https://www.pacificacr.com/">LOGIN SHIOJITU</a>
+<a href="https://www.pacificacr.com/">DAFTAR SHIOJITU</a>
+<a href="https://www.pacificacr.com/">LINK SHIOJITU</a>
+<a href="https://www.pacificacr.com/">BANDAR TOTO SLOT</a>
+<a href="https://www.pacificacr.com/">SHIOJITU login</a>
+<a href="https://www.pacificacr.com/">SHIOJITU slot login</a>
+<a href="https://www.pacificacr.com/">SHIOJITU slot</a>
+<a href="https://www.pacificacr.com/">SHIOJITU link alternatif</a>
+<a href="https://www.pacificacr.com/">slot gacor SHIOJITU qris</a>
+<a href="https://www.pacificacr.com/">SHIOJITU link</a>
+<a href="https://www.pacificacr.com/">gacor SHIOJITU</a>
+<a href="https://www.pacificacr.com/">slot gacor SHIOJITU</a>
+<a href="https://www.pacificacr.com/">slot gacor maxwin SHIOJITU</a>
+<a href="https://www.pacificacr.com/">SHIOJITU link alternatif login</a>
+<a href="https://www.pacificacr.com/">SHIOJITU slot gacor</a>
+<a href="https://www.pacificacr.com/">SHIOJITU login link alternatif</a>
+<a href="https://www.pacificacr.com/">SHIOJITU alternatif</a>
+<a href="https://www.pacificacr.com/">situs SHIOJITU</a>
+<a href="https://www.pacificacr.com/">SHIOJITU slot online login</a>
+<a href="https://www.pacificacr.com/">SHIOJITU login password</a>
+<a href="https://www.pacificacr.com/">slot SHIOJITU</a>
+<a href="https://www.pacificacr.com/">slot gacor apk slot</a>
 </div>
   <div id="wrap">
    <!-- 공통  hidden input 시작-->
@@ -1077,7 +1077,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="Situs Slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="Situs Slot" class="nv00-gnb-v4__logo" href="https://thestarhospital.com/">
+       <a an-ac="gnb" an-ca="navigation" an-la="Situs Slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="Situs Slot" class="nv00-gnb-v4__logo" href="https://www.pacificacr.com/">
         <img src="https://imagestore.io/images/2026/08/31/logo-zona-slot-pulsa-SHIOJITU.gif" alt="" width="200" height="56"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1365,7 +1365,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://thestarhospital.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.pacificacr.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             SHIOJITU
             </span>
@@ -1382,7 +1382,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://thestarhospital.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.pacificacr.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SHIO JITU
             </span>
@@ -1396,7 +1396,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://thestarhospital.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.pacificacr.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              LOGIN SHIOJITU
             </span>
@@ -1410,7 +1410,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://thestarhospital.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.pacificacr.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              DAFTAR SHIOJITU
             </span>
@@ -1424,7 +1424,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://thestarhospital.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.pacificacr.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT PULSA
             </span>
@@ -1438,7 +1438,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://thestarhospital.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.pacificacr.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              BANDAR SLOT
             </span>
@@ -1471,7 +1471,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="SHIOJITU DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="SHIOJITU Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://thestarhospital.com/" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="SHIOJITU DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="SHIOJITU Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.pacificacr.com/" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1479,10 +1479,10 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://thestarhospital.com/" href="https://thestarhospital.com/" role="menuitem">
+         <a data-linkinfo="https://www.pacificacr.com/" href="https://www.pacificacr.com/" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://thestarhospital.com/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.pacificacr.com/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1505,7 +1505,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://thestarhospital.com/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.pacificacr.com/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1555,14 +1555,14 @@ digitalData.page.pageInfo.pageName = pageName;
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-              href="https://thestarhospital.com/"
+              href="https://www.pacificacr.com/"
               role="menuitem"
               target="_self"
               rel="noopener noreferrer"
-              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://thestarhospital.com/'; return false;">
+              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://www.pacificacr.com/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://thestarhospital.com/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.pacificacr.com/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1578,7 +1578,7 @@ digitalData.page.pageInfo.pageName = pageName;
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="Situs Slot" an-tr="nv00_gnb-product detail-account-account" aria-label="Situs Slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://thestarhospital.com/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="Situs Slot" an-tr="nv00_gnb-product detail-account-account" aria-label="Situs Slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.pacificacr.com/" role="menuitem">
               Situs Slot
             </a>
            </div>
@@ -1610,7 +1610,7 @@ digitalData.page.pageInfo.pageName = pageName;
              <p class="user-name">
              </p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://thestarhospital.com/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.pacificacr.com/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -2158,10 +2158,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://thestarhospital.com/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.pacificacr.com/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://thestarhospital.com/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.pacificacr.com/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2663,7 +2663,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://thestarhospital.com/">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://www.pacificacr.com/">
              Add to cart
             </a>
            </div>
@@ -2823,7 +2823,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://thestarhospital.com/" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.pacificacr.com/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4151,8 +4151,8 @@ digitalData.page.pageInfo.pageName = pageName;
         <!-- CTA Buttons - Gold Version (tanpa animasi Bandar Slot) -->
         <div class="cta-gold-section">
             <div class="cta-buttons-gold">
-                <a href="https://hospital.shiojitu.dev/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-                <a href="https://hospital.shiojitu.dev/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
+                <a href="https://pacificacr.shiojitu.dev/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
+                <a href="https://pacificacr.shiojitu.dev/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
             </div>
         </div>
     </div>
@@ -4313,7 +4313,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://thestarhospital.com/" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://www.pacificacr.com/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -6801,8 +6801,8 @@ digitalData.page.pageInfo.pageName = pageName;
     <h2>SHIOJITU | Zona Slot Pulsa Digital dengan Pilihan Permainan Serba Lengkap</h2>
     
     <p style="text-align: justify;">
-        <a href="https://thestarhospital.com/">SHIOJITU</a> hadir sebagai zona slot pulsa digital yang menawarkan beragam pilihan permainan dalam satu layanan yang praktis dan mudah dijelajahi. Dengan tampilan modern serta navigasi yang tertata, SHIOJITU memudahkan pengguna menemukan kategori permainan yang tersedia dan mengakses berbagai fitur melalui perangkat desktop maupun smartphone.</p>
-   <p>Sebagai bagian dari hiburan digital masa kini, <a href="https://thestarhospital.com/">Bandar Slot Pulsa</a> mengutamakan kemudahan akses, variasi permainan, dan pengalaman penggunaan yang sederhana. Dukungan transaksi berbasis pulsa memberikan alternatif pembayaran yang lebih fleksibel, sementara koleksi permainan yang beragam membuat pengguna memiliki lebih banyak pilihan sesuai preferensi masing-masing.</p>
+        <a href="https://www.pacificacr.com/">SHIOJITU</a> hadir sebagai zona slot pulsa digital yang menawarkan beragam pilihan permainan dalam satu layanan yang praktis dan mudah dijelajahi. Dengan tampilan modern serta navigasi yang tertata, SHIOJITU memudahkan pengguna menemukan kategori permainan yang tersedia dan mengakses berbagai fitur melalui perangkat desktop maupun smartphone.</p>
+   <p>Sebagai bagian dari hiburan digital masa kini, <a href="https://www.pacificacr.com/">Bandar Slot Pulsa</a> mengutamakan kemudahan akses, variasi permainan, dan pengalaman penggunaan yang sederhana. Dukungan transaksi berbasis pulsa memberikan alternatif pembayaran yang lebih fleksibel, sementara koleksi permainan yang beragam membuat pengguna memiliki lebih banyak pilihan sesuai preferensi masing-masing.</p>
 
     <h2 style="margin-top: 40px;">Pertanyaan Umum Seputar SHIOJITU</h2>
 
@@ -7207,42 +7207,42 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     SHIOJITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     SHIO JITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     LOGIN SHIOJITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     DAFTAR SHIOJITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     LINK SHIOJITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     SLOT PULSA
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     SLOT GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     BANDAR SLOT PULSA
                   </a>
                 </li>
@@ -7267,37 +7267,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Fitur Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Fitur Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Program Referral
                   </a>
                 </li>
@@ -7323,37 +7323,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Live Chat 24 Jam
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     FAQ SHIOJITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Responsible Gaming
                   </a>
                 </li>
@@ -7379,32 +7379,32 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://hospital.shiojitu.dev/">
+                  <a class="footer-category__link" href="https://pacificacr.shiojitu.dev/">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://hospital.shiojitu.dev/">
+                  <a class="footer-category__link" href="https://pacificacr.shiojitu.dev/">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://hospital.shiojitu.dev/">
+                  <a class="footer-category__link" href="https://pacificacr.shiojitu.dev/">
                     Lupa Password
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Program VIP
                   </a>
                 </li>
@@ -7431,22 +7431,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Fitur Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Kontak Resmi
                   </a>
                 </li>
@@ -7470,22 +7470,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Tentang SHIOJITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Kenapa Pilih SHIOJITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://thestarhospital.com/">
+                  <a class="footer-category__link" href="https://www.pacificacr.com/">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -7505,7 +7505,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://thestarhospital.com/">
+            <a class="footer-language__anchor" href="https://www.pacificacr.com/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -7513,7 +7513,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://thestarhospital.com/">
+            <a class="footer-language__anchor" href="https://www.pacificacr.com/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -8856,7 +8856,7 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://thestarhospital.com/" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://www.pacificacr.com/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -9137,7 +9137,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://thestarhospital.com/" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.pacificacr.com/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -9160,7 +9160,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://thestarhospital.com/" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.pacificacr.com/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -9238,11 +9238,11 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://thestarhospital.com/" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.pacificacr.com/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://thestarhospital.com/" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://www.pacificacr.com/" role="button">
         </a>
        </div>
       </div>
@@ -9308,12 +9308,12 @@ digitalData.page.pageInfo.pageName = pageName;
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://thestarhospital.com/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://www.pacificacr.com/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://thestarhospital.com/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://www.pacificacr.com/" role="button">
            Yakin
           </a>
          </div>
@@ -9338,7 +9338,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://thestarhospital.com/">
+        <a class="cta cta--contained cta--emphasis" href="https://www.pacificacr.com/">
          Best&auml;tigen
         </a>
        </div>
@@ -9361,7 +9361,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://thestarhospital.com/" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://www.pacificacr.com/" title="">
          Best&auml;tigen
         </a>
        </div>
@@ -9412,12 +9412,12 @@ digitalData.page.pageInfo.pageName = pageName;
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://thestarhospital.com/" role="button">
+          <a class="cta cta--outlined cta--black" href="https://www.pacificacr.com/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://thestarhospital.com/" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.pacificacr.com/" role="button">
            Yakin
           </a>
          </div>
@@ -11177,9 +11177,9 @@ digitalData.page.pageInfo.pageName = pageName;
         <div class="Situs Slot">
             <img src="https://imagestore.io/images/2026/08/31/img-zona-slot-pulsa-SHIOJITU.webp" alt="Popup Banner" class="popup-image" />
             <div class="clk-btn-sgp" style="font-size: 20px;">
-                <a href="https://hospital.shiojitu.dev/" target="_blank" rel="nofollow noreferrer"
+                <a href="https://pacificacr.shiojitu.dev/" target="_blank" rel="nofollow noreferrer"
                     class="login">LOGIN</a>
-                <a href="https://hospital.shiojitu.dev/" target="_blank" rel="nofollow noreferrer"
+                <a href="https://pacificacr.shiojitu.dev/" target="_blank" rel="nofollow noreferrer"
                     class="register">DAFTAR</a>
             </div>
             <div class="popup-footer">
