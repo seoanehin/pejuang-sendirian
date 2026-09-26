@@ -205,15 +205,15 @@
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "BOTAKHOKI",
-      "item": "https://www.handinhandtherapy.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "BOTAKHOKI : Portal Situs Toto Macau & Togel Online Hadiah Terbesar dengan Pasaran Lengkap",
-      "item": "https://www.handinhandtherapy.com/"
+      "name": "BOTAKHOKI"
     }
+
+
+
+
+
+
+
   ]
 }
 </script>
