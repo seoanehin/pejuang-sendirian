@@ -190,23 +190,9 @@
   "inLanguage": "id-ID"
 }
 </script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "@id": "https://www.handinhandtherapy.com/#breadcrumb",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://www.handinhandtherapy.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "BOTAKHOKI"
-    }
+<!-- BreadcrumbList intentionally omitted on homepage.
+     This page is the site root, so no artificial breadcrumb hierarchy is declared.
+     Other structured data blocks remain unchanged. -->
 
 
 
@@ -214,9 +200,23 @@
 
 
 
-  ]
-}
-</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	<link rel="preload" href="https://imganekuan.com/uploads/9wcwhfu5.png" as="image" type="image/webp">
 	<script>
 	(function(h, o, u, n, d) {
