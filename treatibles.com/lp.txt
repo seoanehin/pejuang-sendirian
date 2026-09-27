@@ -690,7 +690,26 @@ digitalData.page.pageInfo.pageName = pageName;
     
    
   
-  <script type="application/ld+json">
+  
+ <style>
+  .nv00-gnb-v4__l0-menu-text,
+  .nv00-gnb-v4__l1-menu-text,
+  .nv00-gnb-v4__l1-featured-link,
+  .nv00-gnb-v4__l1-featured-title {
+    font-size: 14.5px;
+    line-height: 1.4;
+  }
+
+  /* Biar di HP tetap kebaca, naikin dikit */
+  @media (max-width: 768px) {
+    .nv00-gnb-v4__l0-menu-text,
+    .nv00-gnb-v4__l1-menu-text,
+    .nv00-gnb-v4__l1-featured-link,
+    .nv00-gnb-v4__l1-featured-title {
+      font-size: 13px;
+    }
+  }
+</style><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC9568e5b17e154ad88fea72ecceac9264-source.min.js" async=""></script><script src="https://maps.googleapis.com/maps-api-v3/api/js/63/14d/places.js"></script><script src="https://maps.googleapis.com/maps-api-v3/api/js/63/14d/main.js"></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC37aa27aaaa4c43a6992f8dccbf3717bb-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC4b38b3aac3ac4e2fbe09d9c7d37061f0-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCffd02299145947eb9b73312dbcac8dc8-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC955d14de9f3b4ad7ab7f21b4f86faec0-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCd8f5c45ec32c48d59e78d5327e5a07b2-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCc4cace0c12074030aa422f7a69de0be9-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC0cc6f3245dda4a10ac5c70bdc65b53eb-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCe9a6d8f94fda4fe88854ef4236d3fdc1-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCf3370d0ea9184f4c8ccc744707d86e38-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC6e6ee7746cc2437e99e6638e9989c367-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC226efb59c141461f9f1e6b61b83dddc7-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC7ea02b952c0b4d339f1815a9fcfe586b-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCc4869601ba734b9f98ba8b1df7b34e3a-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC4701fa7baa8640edb9b3113c51e7ac4c-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC35088f6b8d274e7190bfaf210879782e-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC831db616323349eeb601d371e67f66e2-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCad3aa3d7f0794ac4928f22563e52fd70-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC5c847e03fdbb4fb4bf19e3913a67768a-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC228ae50511f14df6b2ef83ff65f9b9af-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC3a79fcfbd1bb49fa88bd15b44e4bbe15-source.min.js" async=""></script><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -701,7 +720,6 @@ digitalData.page.pageInfo.pageName = pageName;
       "url": "https://treatibles.com/",
       "logo": {
         "@type": "ImageObject",
-        "@id": "https://treatibles.com/#logo",
         "url": "https://imagesshop.io/images/2026/09/27/logo-BOTAKHOKI-akses-link-menuju-situs-toto.webp"
       }
     },
@@ -723,9 +741,6 @@ digitalData.page.pageInfo.pageName = pageName;
       "description": "BOTAKHOKI menghadirkan akses link menuju bandar situs toto dan togel online 4D dengan informasi pasaran lengkap, layanan praktis, serta peluang mendapatkan hadiah terbesar hari ini melalui akses yang mudah digunakan.",
       "isPartOf": {
         "@id": "https://treatibles.com/#website"
-      },
-      "about": {
-        "@id": "https://treatibles.com/#organization"
       },
       "breadcrumb": {
         "@id": "https://treatibles.com/#breadcrumb"
@@ -801,16 +816,11 @@ digitalData.page.pageInfo.pageName = pageName;
       "provider": {
         "@id": "https://treatibles.com/#organization"
       },
-      "areaServed": {
-        "@type": "Country",
-        "name": "Indonesia"
-      },
-      "serviceType": "Portal informasi dan akses layanan online",
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": 4.2,
-        "ratingCount": 6,
         "reviewCount": 6,
+        "ratingCount": 6,
         "bestRating": 5,
         "worstRating": 1
       },
@@ -910,25 +920,7 @@ digitalData.page.pageInfo.pageName = pageName;
   ]
 }
 </script>
- <style>
-  .nv00-gnb-v4__l0-menu-text,
-  .nv00-gnb-v4__l1-menu-text,
-  .nv00-gnb-v4__l1-featured-link,
-  .nv00-gnb-v4__l1-featured-title {
-    font-size: 14.5px;
-    line-height: 1.4;
-  }
-
-  /* Biar di HP tetap kebaca, naikin dikit */
-  @media (max-width: 768px) {
-    .nv00-gnb-v4__l0-menu-text,
-    .nv00-gnb-v4__l1-menu-text,
-    .nv00-gnb-v4__l1-featured-link,
-    .nv00-gnb-v4__l1-featured-title {
-      font-size: 13px;
-    }
-  }
-</style><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC9568e5b17e154ad88fea72ecceac9264-source.min.js" async=""></script><script src="https://maps.googleapis.com/maps-api-v3/api/js/63/14d/places.js"></script><script src="https://maps.googleapis.com/maps-api-v3/api/js/63/14d/main.js"></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC37aa27aaaa4c43a6992f8dccbf3717bb-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC4b38b3aac3ac4e2fbe09d9c7d37061f0-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCffd02299145947eb9b73312dbcac8dc8-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC955d14de9f3b4ad7ab7f21b4f86faec0-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCd8f5c45ec32c48d59e78d5327e5a07b2-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCc4cace0c12074030aa422f7a69de0be9-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC0cc6f3245dda4a10ac5c70bdc65b53eb-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCe9a6d8f94fda4fe88854ef4236d3fdc1-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCf3370d0ea9184f4c8ccc744707d86e38-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC6e6ee7746cc2437e99e6638e9989c367-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC226efb59c141461f9f1e6b61b83dddc7-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC7ea02b952c0b4d339f1815a9fcfe586b-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCc4869601ba734b9f98ba8b1df7b34e3a-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC4701fa7baa8640edb9b3113c51e7ac4c-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC35088f6b8d274e7190bfaf210879782e-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC831db616323349eeb601d371e67f66e2-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCad3aa3d7f0794ac4928f22563e52fd70-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC5c847e03fdbb4fb4bf19e3913a67768a-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC228ae50511f14df6b2ef83ff65f9b9af-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC3a79fcfbd1bb49fa88bd15b44e4bbe15-source.min.js" async=""></script></head>
+</head>
  
 
  <body>
