@@ -807,8 +807,9 @@ digitalData.page.pageInfo.pageName = pageName;
         "@type": "Offer",
         "url": "https://treatibles.com/",
         "priceCurrency": "IDR",
-        "price": "0",
-        "availability": "https://schema.org/InStock"
+        "price": 10000,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
       }
     },
     {
@@ -841,8 +842,9 @@ digitalData.page.pageInfo.pageName = pageName;
               "@type": "Offer",
               "url": "https://treatibles.com/toto-resmi",
               "priceCurrency": "IDR",
-              "price": "0",
-              "availability": "https://schema.org/InStock"
+              "price": 10000,
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition"
             }
           }
         },
@@ -851,7 +853,7 @@ digitalData.page.pageInfo.pageName = pageName;
           "position": 2,
           "item": {
             "@type": "Product",
-            "@id": "https://treatibles.com//#product",
+            "@id": "https://treatibles.com/#product",
             "name": "SITUS TOTO",
             "url": "https://treatibles.com/",
             "image": "https://imagesshop.io/images/2026/09/27/banner-BOTAKHOKI-akses-link-menuju-situs-toto.webp",
@@ -870,8 +872,9 @@ digitalData.page.pageInfo.pageName = pageName;
               "@type": "Offer",
               "url": "https://treatibles.com/",
               "priceCurrency": "IDR",
-              "price": "0",
-              "availability": "https://schema.org/InStock"
+              "price": 10000,
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition"
             }
           }
         },
@@ -899,8 +902,9 @@ digitalData.page.pageInfo.pageName = pageName;
               "@type": "Offer",
               "url": "https://treatibles.com/Toto-Macau",
               "priceCurrency": "IDR",
-              "price": "0",
-              "availability": "https://schema.org/InStock"
+              "price": 10000,
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition"
             }
           }
         }
