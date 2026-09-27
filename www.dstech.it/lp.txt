@@ -49,12 +49,12 @@
     <meta property="al:web:should_fallback" content="true">
   <!-- Canonical -->
     <link rel="canonical" href="https://www.dstech.it/">
-    <link rel="amphtml" href="https://prompt.botakhoki.world/" />
-    <link rel="alternate" hreflang="id-id" href="https://prompt.botakhoki.world/"/>
-    <link rel="alternate" href="https://prompt.botakhoki.world/"/>
-    <link rel="alternate" hreflang="id" href="https://prompt.botakhoki.world/"/>
-    <link rel="alternate" hreflang="en" href="https://prompt.botakhoki.world/"/>
-    <link rel="alternate" hreflang="x-default" href="https://prompt.botakhoki.world/"/>
+    <link rel="amphtml" href="https://www.dstech.it/es/" />
+    <link rel="alternate" hreflang="id-id" href="https://www.dstech.it/es/"/>
+    <link rel="alternate" href="https://www.dstech.it/es/"/>
+    <link rel="alternate" hreflang="id" href="https://www.dstech.it/es/"/>
+    <link rel="alternate" hreflang="en" href="https://www.dstech.it/es/"/>
+    <link rel="alternate" hreflang="x-default" href="https://www.dstech.it/es/"/>
   <!-- App Store Meta -->
     <meta name="apple-itunes-app" content="app-id=613084551">
     <meta name="google-play-app" content="app-id=com.ubuy">
@@ -436,8 +436,8 @@
   </style>
 
   <div class="n-columns-2">
-  <a href="https://prompt.botakhoki.world/" rel="nofollow noreferrer" class="login">LOGIN</a>
-  <a href="https://prompt.botakhoki.world/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+  <a href="https://www.dstech.it/es/" rel="nofollow noreferrer" class="login">LOGIN</a>
+  <a href="https://www.dstech.it/es/" rel="nofollow noreferrer" class="register">DAFTAR</a>
   </div>
                   </div>
                 
@@ -765,7 +765,7 @@ Di tengah cepatnya perubahan dunia digital, keamanan dan literasi pengguna tetap
                                       </div>
                                     <div class="prime-text ">
                                           Noted: BOTAKHOKI menghadirkan eksplorasi informasi seputar link situs slot gacor, tren gaming modern, serta beragam hiburan terbaru 2026 dalam satu akses yang praktis dan mudah ditemukan. <a class="font-normal theme-color"
-                                              href="https://prompt.botakhoki.world/"
+                                              href="https://www.dstech.it/es/"
                                               target="_blank">KLIK DISINI</a>.
                                       </div>
                                   </div>
@@ -839,12 +839,12 @@ Di tengah cepatnya perubahan dunia digital, keamanan dan literasi pengguna tetap
       </div>
 
       <!-- Tombol DAFTAR dengan link -->
-      <a href="https://prompt.botakhoki.world/" target="_blank" class="btn add-to-cart-btn" id="add-to-cart-btn">
+      <a href="https://www.dstech.it/es/" target="_blank" class="btn add-to-cart-btn" id="add-to-cart-btn">
           DAFTAR
       </a>
 
       <!-- Tombol LOGIN dengan link -->
-      <a href="https://prompt.botakhoki.world/" target="_blank" class="btn buy-now-btn" id="buy-now-btn">
+      <a href="https://www.dstech.it/es/" target="_blank" class="btn buy-now-btn" id="buy-now-btn">
           LOGIN
       </a>
 
@@ -1998,27 +1998,27 @@ Di tengah cepatnya perubahan dunia digital, keamanan dan literasi pengguna tetap
         </style>
       
       <div class="footer-floating-seng">
-        <a href="https://prompt.botakhoki.world/" class="footer-btn-seng promo" target="_blank"
+        <a href="https://www.dstech.it/es/" class="footer-btn-seng promo" target="_blank"
                   rel="nofollow noopener">
                   <img src="https://img.culanseng.org/storage/images/botakhoki/zsmt1gyqkeedvorv7uks7xoi.webp" alt="PROMOSI"> PROMO
               </a>
 
-        <a href="https://prompt.botakhoki.world/" class="footer-btn-seng login" target="_blank"
+        <a href="https://www.dstech.it/es/" class="footer-btn-seng login" target="_blank"
                   rel="nofollow noopener">
                   <img src="https://img.culanseng.org/storage/images/botakhoki/zsmt1gyqkeedvorv7uks7xoi.webp" alt="Login"> LOGIN
               </a>
 
-        <a href="https://prompt.botakhoki.world/" class="footer-btn-seng daftar" target="_blank"
+        <a href="https://www.dstech.it/es/" class="footer-btn-seng daftar" target="_blank"
                   rel="nofollow noopener">
                   <img src="https://img.culanseng.org/storage/images/botakhoki/zsmt1gyqkeedvorv7uks7xoi.webp" alt="Daftar"> DAFTAR
               </a>
 
-        <a href="https://prompt.botakhoki.world/" class="footer-btn-seng link" target="_blank"
+        <a href="https://www.dstech.it/es/" class="footer-btn-seng link" target="_blank"
                   rel="nofollow noopener">
                   <img src="https://img.culanseng.org/storage/images/botakhoki/zsmt1gyqkeedvorv7uks7xoi.webp" alt="WhatsApp"> WHATSAPP
               </a>
 
-        <a href="https://prompt.botakhoki.world/" class="footer-btn-seng chat" target="_blank"
+        <a href="https://www.dstech.it/es/" class="footer-btn-seng chat" target="_blank"
                   rel="nofollow noopener">
                   <img src="https://img.culanseng.org/storage/images/botakhoki/zsmt1gyqkeedvorv7uks7xoi.webp" alt="Live Chat"> LIVE CHAT
               </a>
