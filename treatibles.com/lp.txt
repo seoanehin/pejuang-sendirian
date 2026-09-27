@@ -729,19 +729,19 @@ digitalData.page.pageInfo.pageName = pageName;
             "@type": "ListItem",
             "position": 1,
             "name": "BOTAKHOKI",
-            "item": "https://treatibles.com/-botakhoki"
+            "item": "https://treatibles.com/-BOTAKHOKI"
           },
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "BOTAKHOKI LOGIN",
-            "item": "https://treatibles.com/-botakhoki"
+            "name": "LOGIN BOTAKHOKI",
+            "item": "https://treatibles.com/-BOTAKHOKI"
           },
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "BOTAKHOKI DAFTAR",
-            "item": "https://treatibles.com/-botakhoki"
+            "name": "DAFTAR BOTAKHOKI",
+            "item": "https://treatibles.com/-BOTAKHOKI"
           }
         ]
       },
@@ -749,7 +749,7 @@ digitalData.page.pageInfo.pageName = pageName;
       {
         "@type": "Product",
         "@id": "https://treatibles.com/demo#product",
-        "name": "BOTAKHOKI",
+        "name": "SITUS TOTO",
         "image": [
           "https://imagesshop.io/images/2026/09/27/banner-BOTAKHOKI-akses-link-menuju-situs-toto.webp"
         ],
@@ -758,7 +758,7 @@ digitalData.page.pageInfo.pageName = pageName;
           "@type": "Brand",
           "name": "BOTAKHOKI"
         },
-        "sku": "BOTAKHOKI-sajian-lengkap",
+        "sku": "Situs-Toto-Togel",
         "category": "BOTAKHOKI",
         "url": "https://treatibles.com/",
         "aggregateRating": {
@@ -773,11 +773,11 @@ digitalData.page.pageInfo.pageName = pageName;
             "@type": "Review",
             "author": {
               "@type": "Person",
-              "name": "Iwan Margana"
+              "name": "Pesek"
             },
             "datePublished": "2026-03-19",
-            "reviewBody": "BOTAKHOKI memberikan akses link menuju bandar situs Toto dan togel online 4D yang praktis. Pilihan pasaran tersusun lengkap, informasi hadiah hari ini mudah ditemukan, dan navigasinya terasa ringan. Saya jadi lebih mudah menemukan informasi yang dibutuhkan melalui satu platform.",
-            "name": "Iwan Margana",
+            "reviewBody": "saya di berikan situs toto ini dari teman saya, dan saya coba main, hasilnya bagus.",
+            "name": "Pesek",
             "reviewRating": {
               "@type": "Rating",
               "ratingValue": "5",
@@ -789,11 +789,11 @@ digitalData.page.pageInfo.pageName = pageName;
             "@type": "Review",
             "author": {
               "@type": "Person",
-              "name": "Jamin Soetoyo"
+              "name": "Mancung"
             },
             "datePublished": "2026-03-22",
-            "reviewBody": "Akses BOTAKHOKI menurut saya cukup praktis digunakan. Informasi situs Toto dan togel online 4D ditampilkan secara rapi dengan berbagai pilihan pasaran. Informasi promo dan hadiah hari ini juga mudah diperiksa tanpa harus mencari melalui banyak halaman.",
-            "name": "Jamin Soetoyo",
+            "reviewBody": "Baru main beberapa minggu, withdraw saya tidak pernah macet, terimakasih",
+            "name": "Mancung",
             "reviewRating": {
               "@type": "Rating",
               "ratingValue": "4",
@@ -814,7 +814,7 @@ digitalData.page.pageInfo.pageName = pageName;
       {
         "@type": "ItemList",
         "@id": "https://treatibles.com/#merchant-listing",
-        "name": "Bandar Togel Online",
+        "name": "SITUS TOTO",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
           {
@@ -822,16 +822,16 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "https://treatibles.com/Bandar-Togel-Online#product",
-              "name": "Bandar Online",
-              "url": "https://treatibles.com/Bandar-Togel-Online",
+              "@id": "https://treatibles.com//bandar-toto-macau#product",
+              "name": "Bandar Macau",
+              "url": "https://treatibles.com//bandar-toto-macau",
               "image": "https://imagesshop.io/images/2026/09/27/banner-BOTAKHOKI-akses-link-menuju-situs-toto.webp",
               "description": "BOTAKHOKI menghadirkan akses link menuju bandar situs toto dan togel online 4D dengan informasi pasaran lengkap, layanan praktis, serta peluang mendapatkan hadiah terbesar hari ini melalui akses yang mudah digunakan.",
               "brand": {
                 "@type": "Brand",
                 "name": "BOTAKHOKI"
               },
-              "sku": "Bandar-Togel-Online",
+              "sku": "Toto-Macau-Resmi",
               "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": "4.9",
@@ -839,7 +839,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://treatibles.com/jitu-resmi",
+                "url": "https://treatibles.com//toto-resmi",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -852,7 +852,7 @@ digitalData.page.pageInfo.pageName = pageName;
             "item": {
               "@type": "Product",
               "@id": "https://treatibles.com//#product",
-              "name": "Bandar Toto",
+              "name": "SITUS TOTO",
               "url": "https://treatibles.com/",
               "image": "https://imagesshop.io/images/2026/09/27/banner-BOTAKHOKI-akses-link-menuju-situs-toto.webp",
               "description": "BOTAKHOKI menghadirkan akses link menuju bandar situs toto dan togel online 4D dengan informasi pasaran lengkap, layanan praktis, serta peluang mendapatkan hadiah terbesar hari ini melalui akses yang mudah digunakan.",
@@ -860,7 +860,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 "@type": "Brand",
                 "name": "BOTAKHOKI"
               },
-              "sku": "Botakhoki-Bandar-Situs-Toto",
+              "sku": "botakhoki-macau-resmi",
               "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": "4.9",
@@ -880,16 +880,16 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "https://treatibles.com/Bandar-Situs-Toto#product",
+              "@id": "https://treatibles.com//Bandar-Toto-Macau#product",
               "name": "BOTAKHOKI",
-              "url": "https://treatibles.com/Bandar-Situs-Toto",
+              "url": "https://treatibles.com//Bandar-Toto-Macau",
               "image": "https://imagesshop.io/images/2026/09/27/banner-BOTAKHOKI-akses-link-menuju-situs-toto.webp",
               "description": "BOTAKHOKI menghadirkan akses link menuju bandar situs toto dan togel online 4D dengan informasi pasaran lengkap, layanan praktis, serta peluang mendapatkan hadiah terbesar hari ini melalui akses yang mudah digunakan.",
               "brand": {
                 "@type": "Brand",
                 "name": "BOTAKHOKI"
               },
-              "sku": "Bandar-Situs-Toto",
+              "sku": "Situs-Toto-Togel",
               "aggregateRating": {
                 "@type": "AggregateRating",
                 "ratingValue": "4.9",
@@ -897,7 +897,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://treatibles.com//Bandar-Online",
+                "url": "https://treatibles.com//Toto-Macau",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
