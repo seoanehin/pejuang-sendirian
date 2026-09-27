@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
@@ -698,30 +699,41 @@ digitalData.page.pageInfo.pageName = pageName;
       "@id": "https://treatibles.com/#organization",
       "name": "BOTAKHOKI",
       "url": "https://treatibles.com/",
-      "logo": "https://imagesshop.io/images/2026/09/27/logo-BOTAKHOKI-akses-link-menuju-situs-toto.webp",
-      "sameAs": [
-        "https://facebook.com/botakhoki",
-        "https://instagram.com/botakhoki",
-        "https://twitter.com/botakhoki",
-        "https://www.youtube.com/@botakhoki"
-      ],
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+62-812-8080-3547",
-        "contactType": "customer support",
-        "availableLanguage": [
-          "id",
-          "en"
-        ],
-        "areaServed": "ID"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "ratingCount": "954638",
-        "bestRating": "5",
-        "worstRating": "1"
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://treatibles.com/#logo",
+        "url": "https://imagesshop.io/images/2026/09/27/logo-BOTAKHOKI-akses-link-menuju-situs-toto.webp"
       }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://treatibles.com/#website",
+      "url": "https://treatibles.com/",
+      "name": "BOTAKHOKI",
+      "publisher": {
+        "@id": "https://treatibles.com/#organization"
+      },
+      "inLanguage": "id-ID"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://treatibles.com/#webpage",
+      "url": "https://treatibles.com/",
+      "name": "BOTAKHOKI - Akses Link Menuju Bandar Situs Toto & Togel Online 4D dengan Hadiah Terbesar Hari Ini",
+      "description": "BOTAKHOKI menghadirkan akses link menuju bandar situs toto dan togel online 4D dengan informasi pasaran lengkap, layanan praktis, serta peluang mendapatkan hadiah terbesar hari ini melalui akses yang mudah digunakan.",
+      "isPartOf": {
+        "@id": "https://treatibles.com/#website"
+      },
+      "about": {
+        "@id": "https://treatibles.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://treatibles.com/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://treatibles.com/#service"
+      },
+      "inLanguage": "id-ID"
     },
     {
       "@type": "BreadcrumbList",
@@ -732,229 +744,168 @@ digitalData.page.pageInfo.pageName = pageName;
           "position": 1,
           "name": "BOTAKHOKI",
           "item": "https://treatibles.com/"
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "LOGIN BOTAKHOKI",
-          "item": "https://treatibles.com/"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "DAFTAR BOTAKHOKI",
-          "item": "https://treatibles.com/"
         }
       ]
     },
     {
-      "@type": "Product",
-      "@id": "https://treatibles.com/demo#product",
-      "name": "SITUS TOTO",
-      "image": [
-        "https://imagesshop.io/images/2026/09/27/banner-BOTAKHOKI-akses-link-menuju-situs-toto.webp"
-      ],
-      "description": "BOTAKHOKI menghadirkan akses link menuju bandar situs toto dan togel online 4D dengan informasi pasaran lengkap, layanan praktis, serta peluang mendapatkan hadiah terbesar hari ini melalui akses yang mudah digunakan.",
-      "brand": {
-        "@type": "Brand",
-        "name": "BOTAKHOKI"
-      },
-      "sku": "Situs-Toto-Togel",
-      "category": "BOTAKHOKI",
+      "@type": "ItemList",
+      "@id": "https://treatibles.com/#navigation-list",
+      "name": "Menu BOTAKHOKI",
+      "numberOfItems": 6,
+      "itemListOrder": "https://schema.org/ItemListOrderAscending",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "BOTAKHOKI",
+          "url": "https://treatibles.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "SITUS TOTO",
+          "url": "https://treatibles.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TOGEL ONLINE",
+          "url": "https://treatibles.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "SITUS TOGEL",
+          "url": "https://treatibles.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "TOGEL 4D",
+          "url": "https://treatibles.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "SITUS TOTO TOGEL",
+          "url": "https://treatibles.com/"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://treatibles.com/#service",
+      "name": "BOTAKHOKI",
       "url": "https://treatibles.com/",
+      "description": "BOTAKHOKI menghadirkan akses link menuju bandar situs toto dan togel online 4D dengan informasi pasaran lengkap, layanan praktis, serta peluang mendapatkan hadiah terbesar hari ini melalui akses yang mudah digunakan.",
+      "provider": {
+        "@id": "https://treatibles.com/#organization"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Indonesia"
+      },
+      "serviceType": "Portal informasi dan akses layanan online",
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "ratingCount": "954638",
-        "bestRating": "5",
-        "worstRating": "1"
+        "ratingValue": 4.2,
+        "ratingCount": 6,
+        "reviewCount": 6,
+        "bestRating": 5,
+        "worstRating": 1
       },
       "review": [
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Pesek"
+            "name": "Iwan Margana  SEMARANG"
           },
-          "datePublished": "2026-03-19",
-          "reviewBody": "saya di berikan situs toto ini dari teman saya, dan saya coba main, hasilnya bagus.",
-          "name": "Pesek",
+          "datePublished": "2025-04-20",
+          "reviewBody": "BOTAKHOKI memberikan akses link menuju bandar situs Toto dan togel online 4D yang praktis. Pilihan pasaran tersusun lengkap, informasi hadiah hari ini mudah ditemukan, dan navigasinya terasa ringan. Saya jadi lebih mudah menemukan informasi yang dibutuhkan melalui satu platform.",
           "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
+            "ratingValue": 5,
+            "bestRating": 5,
+            "worstRating": 1
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mancung"
+            "name": "Jamin Soetoyo - JAKARTA"
           },
           "datePublished": "2026-03-22",
-          "reviewBody": "Baru main beberapa minggu, withdraw saya tidak pernah macet, terimakasih",
-          "name": "Mancung",
+          "reviewBody": "Akses BOTAKHOKI menurut saya cukup praktis digunakan. Informasi situs Toto dan togel online 4D ditampilkan secara rapi dengan berbagai pilihan pasaran. Informasi promo dan hadiah hari ini juga mudah diperiksa tanpa harus mencari melalui banyak halaman.",
           "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          }
-        }
-      ],
-      "offers": {
-        "@type": "Offer",
-        "url": "https://treatibles.com/",
-        "priceCurrency": "IDR",
-        "price": 10000,
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-      }
-    },
-    {
-      "@type": "ItemList",
-      "@id": "https://treatibles.com/#merchant-listing",
-      "name": "SITUS TOTO",
-      "itemListOrder": "https://schema.org/ItemListOrderDescending",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "item": {
-            "@type": "Product",
-            "@id": "https://treatibles.com/bandar-toto-macau#product",
-            "name": "Bandar Macau",
-            "url": "https://treatibles.com/bandar-toto-macau",
-            "image": "https://imagesshop.io/images/2026/09/27/banner-BOTAKHOKI-akses-link-menuju-situs-toto.webp",
-            "description": "BOTAKHOKI menghadirkan akses link menuju bandar situs toto dan togel online 4D dengan informasi pasaran lengkap, layanan praktis, serta peluang mendapatkan hadiah terbesar hari ini melalui akses yang mudah digunakan.",
-            "brand": {
-              "@type": "Brand",
-              "name": "BOTAKHOKI"
-            },
-            "sku": "Toto-Macau-Resmi",
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.9",
-              "ratingCount": "954638"
-            },
-            "offers": {
-              "@type": "Offer",
-              "url": "https://treatibles.com/toto-resmi",
-              "priceCurrency": "IDR",
-              "price": 10000,
-              "availability": "https://schema.org/InStock",
-              "itemCondition": "https://schema.org/NewCondition"
-            }
+            "ratingValue": 4,
+            "bestRating": 5,
+            "worstRating": 1
           }
         },
         {
-          "@type": "ListItem",
-          "position": 2,
-          "item": {
-            "@type": "Product",
-            "@id": "https://treatibles.com/#product",
-            "name": "SITUS TOTO",
-            "url": "https://treatibles.com/",
-            "image": "https://imagesshop.io/images/2026/09/27/banner-BOTAKHOKI-akses-link-menuju-situs-toto.webp",
-            "description": "BOTAKHOKI menghadirkan akses link menuju bandar situs toto dan togel online 4D dengan informasi pasaran lengkap, layanan praktis, serta peluang mendapatkan hadiah terbesar hari ini melalui akses yang mudah digunakan.",
-            "brand": {
-              "@type": "Brand",
-              "name": "BOTAKHOKI"
-            },
-            "sku": "botakhoki-macau-resmi",
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.9",
-              "ratingCount": "954638"
-            },
-            "offers": {
-              "@type": "Offer",
-              "url": "https://treatibles.com/",
-              "priceCurrency": "IDR",
-              "price": 10000,
-              "availability": "https://schema.org/InStock",
-              "itemCondition": "https://schema.org/NewCondition"
-            }
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jo Gasyanto - MEDAN"
+          },
+          "datePublished": "2026-03-17",
+          "reviewBody": "Saya suka tampilan BOTAKHOKI karena akses link menuju bandar Toto dan togel online 4D terasa sederhana dan tidak membingungkan. Menu pasaran, informasi terbaru, serta detail hadiah hari ini dapat ditemukan dengan cepat sehingga lebih nyaman digunakan melalui perangkat mobile.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 3,
+            "bestRating": 5,
+            "worstRating": 1
           }
         },
         {
-          "@type": "ListItem",
-          "position": 3,
-          "item": {
-            "@type": "Product",
-            "@id": "https://treatibles.com/Bandar-Toto-Macau#product",
-            "name": "BOTAKHOKI",
-            "url": "https://treatibles.com/Bandar-Toto-Macau",
-            "image": "https://imagesshop.io/images/2026/09/27/banner-BOTAKHOKI-akses-link-menuju-situs-toto.webp",
-            "description": "BOTAKHOKI menghadirkan akses link menuju bandar situs toto dan togel online 4D dengan informasi pasaran lengkap, layanan praktis, serta peluang mendapatkan hadiah terbesar hari ini melalui akses yang mudah digunakan.",
-            "brand": {
-              "@type": "Brand",
-              "name": "BOTAKHOKI"
-            },
-            "sku": "Situs-Toto-Togel",
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.9",
-              "ratingCount": "954638"
-            },
-            "offers": {
-              "@type": "Offer",
-              "url": "https://treatibles.com/Toto-Macau",
-              "priceCurrency": "IDR",
-              "price": 10000,
-              "availability": "https://schema.org/InStock",
-              "itemCondition": "https://schema.org/NewCondition"
-            }
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kam Lie Giok - JAMBI"
+          },
+          "datePublished": "2026-05-25",
+          "reviewBody": "BOTAKHOKI menyediakan berbagai informasi Toto dan togel online 4D dalam satu akses yang mudah digunakan. Pilihan pasaran tersedia dengan tampilan yang teratur, sementara informasi promo dan hadiah terbesar hari ini dapat diperiksa dengan jelas beserta ketentuan yang berlaku.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 4,
+            "bestRating": 5,
+            "worstRating": 1
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kitty Tjioe - BINJAI"
+          },
+          "datePublished": "2026-03-19",
+          "reviewBody": "Selama menggunakan BOTAKHOKI, aksesnya terasa ringan baik melalui desktop maupun smartphone. Link menuju bandar situs Toto dan togel online 4D mudah ditemukan, pilihan pasarannya lengkap, dan informasi hadiah hari ini disajikan dengan rapi sehingga tidak sulit dipahami.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5,
+            "bestRating": 5,
+            "worstRating": 1
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lianawati Setyo - JAKARTA"
+          },
+          "datePublished": "2026-03-23",
+          "reviewBody": "BOTAKHOKI membuat pencarian informasi Toto dan togel online 4D terasa lebih praktis. Akses link tersedia dengan navigasi sederhana, pilihan pasaran mudah dijelajahi, serta informasi promo dan hadiah hari ini ditampilkan secara jelas. Layanan bantuan juga mudah ditemukan ketika diperlukan.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 4,
+            "bestRating": 5,
+            "worstRating": 1
           }
         }
       ]
-    }
-  ]
-}
-</script>
-  <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Organization",
-      "@id": "https://treatibles.com/#org",
-      "name": "BOTAKHOKI",
-      "url": "https://treatibles.com/",
-      "logo": "https://imagesshop.io/images/2026/09/27/banner-BOTAKHOKI-akses-link-menuju-situs-toto.webp"
-    },
-    {
-      "@type": "WebSite",
-      "@id": "https://treatibles.com/#website",
-      "url": "https://treatibles.com/",
-      "name": "BOTAKHOKI",
-      "publisher": {
-        "@id": "https://treatibles.com/#org"
-      },
-      "inLanguage": "id-ID",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": "https://treatibles.com/?s={search_term_string}",
-        "query-input": "required name=search_term_string"
-      }
-    },
-    {
-      "@type": "SoftwareApplication",
-      "@id": "https://treatibles.com/#app",
-      "name": "BOTAKHOKI",
-      "applicationCategory": "GameApplication",
-      "operatingSystem": "Android, iOS, Windows",
-      "offers": {
-        "@type": "Offer",
-        "price": "0",
-        "priceCurrency": "IDR"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": 4.9,
-        "ratingCount": 954638
-      }
     }
   ]
 }
@@ -4259,33 +4210,6 @@ digitalData.page.pageInfo.pageName = pageName;
         </div>
        
        <!-- N -->
-       <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "brand": {
-    "@type": "Brand",
-    "name": "Samsung"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5.0",
-    "ratingCount": "6"
-  },
-  "@id": "https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/",
-  "name": "BOTAKHOKI",
-  "image": "https://imagesshop.io/images/2026/09/27/banner-BOTAKHOKI-akses-link-menuju-situs-toto.webp",
-  "description": "Akses Situs Toto Togel 4D Resmi Keluaran Angka Paling Akurat Hari Ini. Pelajari harga, spesifikasi dan temukan produk terbaru serta  Smartphones terbaik untuk Anda di Samsung Indonesia.",
-  "sku": "MS-F813QBDUIDZ",
-  "offers": {
-    "@type": "Offer",
-    "url": "https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/",
-    "priceCurrency": "IDR",
-    "availability": "inStock",
-    "price": "1399000"
-  }
-}
-</script>
        <!--googleoff: all true-->
        <div class="sdf-component-templates" id="sg-pdh-dynamic-template-assembly">
         <div class="hdd02-buying-tool__cost-box hdd02-buying-tool__cost-box--old sdf-component-template" data-sdf-template="buyingPrice @ price" data-sdf-unwrap="true">
@@ -5824,47 +5748,9 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="pd-g-reasons-to-buy-ux2">
      <input id="rtbListSize" name="rtbListSize" type="hidden" value="4">
      <section class="pdd28-reasons-to-buy pdd28-reasons-to-buy--theme-white-card" style="">
-      <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "OfferCatalog",
-  "name": "Beli langsung. Dapat lebih banyak.",
-  "itemListElement": [
-    {
-      "@type": "Offer",
-      "itemOffered": {
-        "@type": "Service",
-        "name": "Samsung Rewards",
-        "description": "Belanja dan kumpulkan point reward untuk pembelian berikutnya"
-      }
-    },
-    {
-      "@type": "Offer",
-      "itemOffered": {
-        "@type": "Service",
-        "name": "Samsung Premium Care",
-        "description": "Perlindungan lebih tanpa perlu khawatir"
-      }
-    },
-    {
-      "@type": "Offer",
-      "itemOffered": {
-        "@type": "Service",
-        "name": "Gratis Pengiriman",
-        "description": "BOTAKHOKI menghadirkan akses link menuju bandar situs toto dan togel online 4D dengan informasi pasaran lengkap, layanan praktis, serta peluang mendapatkan hadiah terbesar hari ini melalui akses yang mudah digunakan."
-      }
-    },
-    {
-      "@type": "Offer",
-      "itemOffered": {
-        "@type": "Service",
-        "name": "Flexible Finance",
-        "description": "Cicilan 0% menggunakan kartu kredit bank hingga 24 bulan"
-      }
-    }
-  ]
-}
-</script>
+      <script data-id="2b893dde-fb1e-4e03-8e91-a97d9d75e68a" data-object-type="OfferCatalog" data-type="seo" type="application/ld+json">
+       {"@context":"https://schema.org","@type":"OfferCatalog","name":"Beli langsung. Dapat lebih banyak.","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Samsung Rewards","description":"Belanja dan kumpulkan point reward untuk pembelian berikutnya"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Samsung Premium Care","description":"Perlindungan lebih tanpa perlu khawatir"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Gratis Pengiriman","description":"BOTAKHOKI menghadirkan akses link menuju bandar situs toto dan togel online 4D dengan informasi pasaran lengkap, layanan praktis, serta peluang mendapatkan hadiah terbesar hari ini melalui akses yang mudah digunakan."}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Flexible Finance","description":"Cicilan 0% menggunakan kartu kredit bank hingga 24 bulan"}}]}
+      </script>
 
     <style>
       :root{
@@ -6568,45 +6454,9 @@ digitalData.page.pageInfo.pageName = pageName;
        </li>
       </ul>
      </div>
-     <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "@id": "https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#breadcrumb",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "name": "Home",
-      "item": "https://www.samsung.com/id/",
-      "position": 1
-    },
-    {
-      "@type": "ListItem",
-      "name": "Mobile",
-      "item": "https://www.samsung.com/id/mobile/",
-      "position": 2
-    },
-    {
-      "@type": "ListItem",
-      "name": "Smartphones",
-      "item": "https://www.samsung.com/id/smartphones/",
-      "position": 3
-    },
-    {
-      "@type": "ListItem",
-      "name": "Galaxy A",
-      "item": "https://www.samsung.com/id/smartphones/galaxy-a/",
-      "position": 4
-    },
-    {
-      "@type": "ListItem",
-      "name": "Bandar TOTO",
-      "item": "",
-      "position": 5
-    }
-  ]
-}
-</script>
+     <script data-id="815b4f0e-baa9-42cc-b1f9-b4b995da3ffb" data-object-type="BreadcrumbList" data-type="seo" type="application/ld+json">
+      {"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#breadcrumb","itemListElement":[{"@type":"ListItem","name":"Home","item":"https://www.samsung.com/id/","position":1},{"@type":"ListItem","name":"Mobile","item":"https://www.samsung.com/id/mobile/","position":2},{"@type":"ListItem","name":"Smartphones","item":"https://www.samsung.com/id/smartphones/","position":3},{"@type":"ListItem","name":"Galaxy A","item":"https://www.samsung.com/id/smartphones/galaxy-a/","position":4},{"@type":"ListItem","name":"Bandar TOTO","item":"","position":5}]}
+     </script>
     </nav>
     <div class="pd-g-manufacturer-info-popup">
      <div aria-modal="true" class="manufacturer-info-popup" role="dialog" tabindex="0">
@@ -11369,16 +11219,6 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
    </script>
    <script src="https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/product-popup/pd-g-eip-popup/clientlibs/site.min.dd4327a6471278074a327fbfe515c7a8.js">
    </script>
-   <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebPage",
-  "name": "BOTAKHOKI - Akses Link Menuju Bandar Situs Toto & Togel Online 4D dengan Hadiah Terbesar Hari Ini",
-  "@id": "http://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#webpage",
-  "description": "BOTAKHOKI menghadirkan akses link menuju bandar situs toto dan togel online 4D dengan informasi pasaran lengkap, layanan praktis, serta peluang mendapatkan hadiah terbesar hari ini melalui akses yang mudah digunakan.",
-  "url": "https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/"
-}
-</script>
    <style>
     .toto {
       margin: 0;
