@@ -729,19 +729,19 @@ digitalData.page.pageInfo.pageName = pageName;
             "@type": "ListItem",
             "position": 1,
             "name": "BOTAKHOKI",
-            "item": "https://treatibles.com/-BOTAKHOKI"
+            "item": "https://treatibles.com/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "LOGIN BOTAKHOKI",
-            "item": "https://treatibles.com/-BOTAKHOKI"
+            "item": "https://treatibles.com/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "DAFTAR BOTAKHOKI",
-            "item": "https://treatibles.com/-BOTAKHOKI"
+            "item": "https://treatibles.com/"
           }
         ]
       },
@@ -841,7 +841,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 "@type": "Offer",
                 "url": "https://treatibles.com//toto-resmi",
                 "priceCurrency": "IDR",
-                "price": "0",
+                "price": "10000",
                 "availability": "https://schema.org/InStock"
               }
             }
@@ -870,7 +870,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 "@type": "Offer",
                 "url": "https://treatibles.com/",
                 "priceCurrency": "IDR",
-                "price": "0",
+                "price": "10000",
                 "availability": "https://schema.org/InStock"
               }
             }
@@ -899,7 +899,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 "@type": "Offer",
                 "url": "https://treatibles.com//Toto-Macau",
                 "priceCurrency": "IDR",
-                "price": "0",
+                "price": "10000",
                 "availability": "https://schema.org/InStock"
               }
             }
@@ -6497,8 +6497,8 @@ digitalData.page.pageInfo.pageName = pageName;
       </ul>
      </div>
      <script data-id="815b4f0e-baa9-42cc-b1f9-b4b995da3ffb" data-object-type="BreadcrumbList" data-type="seo" type="application/ld+json">
-      {"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#breadcrumb","itemListElement":[{"@type":"ListItem","name":"Home","item":"https://www.samsung.com/id/","position":1},{"@type":"ListItem","name":"Mobile","item":"https://www.samsung.com/id/mobile/","position":2},{"@type":"ListItem","name":"Smartphones","item":"https://www.samsung.com/id/smartphones/","position":3},{"@type":"ListItem","name":"Galaxy A","item":"https://www.samsung.com/id/smartphones/galaxy-a/","position":4},{"@type":"ListItem","name":"Bandar TOTO","item":"","position":5}]}
-     </script>
+       {"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://treatibles.com/#breadcrumb-page","itemListElement":[{"@type":"ListItem","name":"BOTAKHOKI","item":"https://treatibles.com/","position":1},{"@type":"ListItem","name":"SITUS TOTO","item":"https://treatibles.com/","position":2},{"@type":"ListItem","name":"TOGEL ONLINE","position":3}]}
+      </script>
     </nav>
     <div class="pd-g-manufacturer-info-popup">
      <div aria-modal="true" class="manufacturer-info-popup" role="dialog" tabindex="0">
